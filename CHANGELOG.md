@@ -2,7 +2,7 @@
 
 All changes to this package will be documented in this file.
 
-## [Unreleased]
+## [1.0.0]
 
 ### Added
 
