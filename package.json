@@ -1,0 +1,12 @@
+{
+  "name": "com.biscuitprime.gamemap2d",
+  "displayName": "Game Map 2D",
+  "version": "1.0.0",
+  "author": {
+    "name": "Biscuit Prime",
+    "email": "henri.nomico@gmail.com"
+  },
+  "description": "A small package for creating easy, modular and controlled 2D Game Maps. Useful for all sorts of 2D games.\nThe map can be moved in runtime, limited by the screen (or not).\nModular, you can change the map's sprite with whatever you desire, and the code will adjust in consequence.",
+  "keywords": [ "2d", "map", "utility"],
+  "dependencies": {}
+}
